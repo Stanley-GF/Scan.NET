@@ -9,7 +9,7 @@ An open-source library to scan the vulnerabilities of a website
 - [Documentation](https://github.com/Stanley-GF/Scan.NET#documentation)
 - [You are a dev?](https://github.com/Stanley-GF/Scan.NET#you-are-a-dev-)
 - [To Do List](https://github.com/Stanley-GF/Scan.NET#to-do-list)
-- [Our other project](- [To Do List](https://github.com/Stanley-GF/Scan.NET#to-do-list))
+- [Our other project](https://github.com/Stanley-GF/Scan.NET#Other-Project)
 
 
 # Example
