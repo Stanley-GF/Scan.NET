@@ -9,6 +9,7 @@ An open-source library to scan the vulnerabilities of a website
 - [Documentation](https://github.com/Stanley-GF/Scan.NET#documentation)
 - [You are a dev?](https://github.com/Stanley-GF/Scan.NET#you-are-a-dev-)
 - [To Do List](https://github.com/Stanley-GF/Scan.NET#to-do-list)
+- [Our other project](https://github.com/Stanley-GF/Scan.NET#to-do-list)
 
 
 # Example
@@ -59,3 +60,6 @@ You can help us by adding vulnerabilities etc.
 - [x] XSS
 - [ ] RFI
 - [ ] LFI
+
+# Other project
+- [CockyGrabber](https://github.com/Stanley-GF/CockyGrabber) an .NET library where you can decrypt browsers passwords & cookies
