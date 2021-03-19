@@ -52,7 +52,7 @@ scan.XSS.Check("link").VulnerableQuery[0]; // Return Array (List<string>) - Take
 More soon
 
 # You are a dev ?
-You can help us with adding vulnerabilities etc. 
+You can help us by adding vulnerabilities etc. 
 
 # To Do List
 - [x] SQL
