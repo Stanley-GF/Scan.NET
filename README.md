@@ -2,7 +2,7 @@
 # Scan.NET
 An open-source library to scan the vulnerabilities of a website
 
-# Download from Nuget - [Download from release](https://github.com/Stanley-GF/Scan.NET/releases/download/0.9.0/Scan.dll)
+# [Download from Nuget](https://www.nuget.org/packages/ScanNET/) - [Download from release](https://github.com/Stanley-GF/Scan.NET/releases/download/0.9.0/Scan.dll)
 
 # Summary
 - [Example](https://github.com/Stanley-GF/Scan.NET#example)
